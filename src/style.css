@@ -1,0 +1,96 @@
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu div {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 2px;
+    text-decoration: none;
+    border: 1px  #4CAF50;
+}
+
+.col-md-2 div:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+.vertical-menu div.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#button1 {
+    line-height: 5px;
+    width: 2px;
+    font-size: 5pt;
+    font-family: tahoma;
+    
+    /* margin-right: 2px; */
+    position:absolute;
+    /* top:0; */
+    /* right:0; */
+}
+
+#button2 {
+    line-height: 5px;
+    width: 2px;
+    font-size: 5pt;
+    font-family: tahoma;
+    
+    /* margin-right: 2px; */
+    position:absolute;
+    /* top:0; */
+    /* right:0; */
+}
+
+#button3 {
+    line-height: 5px;
+    width: 2px;
+    font-size: 5pt;
+    font-family: tahoma;
+    
+    /* margin-right: 2px; */
+    position:absolute;
+    /* top:0; */
+    /* right:0; */
+}
+
+
+#button4 {
+    line-height: 5px;
+    width: 2px;
+    font-size: 5pt;
+    font-family: tahoma;
+    
+    /* margin-right: 2px; */
+    position:absolute;
+    /* top:0; */
+    /* right:0; */
+}
+
+#button5 {
+    line-height: 5px;
+    width: 2px;
+    font-size: 5pt;
+    font-family: tahoma;
+    
+    /* margin-right: 2px; */
+    position:absolute;
+    /* top:0; */
+    /* right:0; */
+}
+
+#button6 {
+    line-height: 5px;
+    width: 2px;
+    font-size: 5pt;
+    font-family: tahoma;
+    
+    /* margin-right: 2px; */
+    position:absolute;
+    /* top:0; */
+    /* right:0; */
+}
+
+.resizedTextbox {width: 200px; height: 15px; padding: 1px}

@@ -1,5 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=autovar debug = process.env.NODE_ENV !== "production";
+var debug = process.env.NODE_ENV !== "production";
 var webpack = require('webpack');
 var path = require('path');
 
@@ -29,4 +28,4 @@ module.exports = {
     new webpack.optimize.OccurrenceOrderPlugin(),
     new webpack.optimize.UglifyJsPlugin({ mangle: false, sourcemap: false }),
   ],
-};
+}
